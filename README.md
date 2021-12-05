@@ -6,7 +6,7 @@ Language | Estimated difficulty | First usage | Second usage
 MCFunction | Very hard | Day 1 | **X**
 MySQL | Very hard | Day 2 | **X**
 ARM Assembly | Hard | Day 3 (part 2 in progress...) | 
-Bash | Hard |  | 
+Bash | Hard | Day 4 | 
 C | Medium |  | 
 Go | Medium |  | 
 PHP | Easy |  | 
